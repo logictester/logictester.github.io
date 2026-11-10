@@ -1,0 +1,6 @@
+{
+  "issuer": "https://logictester.github.io",
+  "jwks_uri": "https://logictester.github.io/.well-known/jwks.json",
+  "client_name": "logictester",
+  "logo_uri": "https://avatars.githubusercontent.com/u/72776?v=4"
+}
